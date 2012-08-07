@@ -1,0 +1,7 @@
+D:\project\Test\GC\ToolsDll\bin\Debug\ToolsDll.dll
+D:\project\Test\GC\ToolsDll\bin\Debug\ToolsDll.pdb
+D:\project\Test\GC\ToolsDll\bin\Debug\HtmlAgilityPack.dll
+D:\project\Test\GC\ToolsDll\bin\Debug\HtmlAgilityPack.pdb
+D:\project\Test\GC\ToolsDll\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Test\GC\ToolsDll\obj\Debug\ToolsDll.dll
+D:\project\Test\GC\ToolsDll\obj\Debug\ToolsDll.pdb
